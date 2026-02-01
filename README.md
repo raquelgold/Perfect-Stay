@@ -26,13 +26,9 @@ cd Perfect-Stay
 
 ### 2. Data Setup (Crucial)
 
-The property and match data files are **not** included in this repository and must be downloaded separately from the project's Azure Blob Storage.
+The property and match data files are **not** included in this repository and must be downloaded separately. Use the notebook download_demo_data.ipynb in databricks to download the demo data for this website to run locally.
 
-1.  Create a folder named `data` inside the `backend` directory:
-    ```
-    backend/data/
-    ```
-2.  Download the following CSV files from your Azure Blob source and place them into `backend/data/`:
+2.  Download the following CSV files and place them into `backend/data/`:
     *   `airbnb_demo_data.csv`
     *   `booking_demo_data.csv`
     *   `download_demo_data.csv` (Contains World Cup Matches)
