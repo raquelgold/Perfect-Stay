@@ -113,13 +113,13 @@ The terminal will show a local URL (usually `http://localhost:5173`). Open this 
 ## 🎮 Usage
 
 ### General Search
-1.  Enter a city (e.g., "Paris", "Miami").
-2.  Select a vacation goal (e.g., "Nightlife", "Nature").
+1.  Enter a city ("London", "Paris" or "Tel Aviv").
+2.  Select a vacation goal (for example, "Nightlife", "Nature").
 3.  Click **Search** to see the top properties from Airbnb and Booking.com.
 
 ### FIFA World Cup 2026 Mode 🏆
 1.  Click the simplified **FIFA World Cup 2026** banner.
-2.  A list of matches will appear in a modal. Select a match (e.g., "Mexico vs. USA").
+2.  A list of matches will appear in a modal. Select a match.
 3.  The application will automatically find the properties closest to the stadium for that specific match.
 
 ---
