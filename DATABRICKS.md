@@ -13,6 +13,7 @@ This guide explains how to run the user interface directly within Databricks usi
 3.  **Run All** cells (or press `Shift + Enter` to run specific cells).
 
 ---DATA---
+
 Our project is based around 4 data sources:
 
 1. The provided Airbnb dataset.
