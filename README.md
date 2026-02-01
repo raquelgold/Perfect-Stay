@@ -133,6 +133,7 @@ The terminal will show a local URL (usually `http://localhost:5173`). Open this 
 
 
 ----- HOW TO RUN THE PROJECT FROM SCRATCH ------
+
 Enter databricks and run the following files in the order stated:
 
 1) Get all data needed:
@@ -143,8 +144,6 @@ Enter databricks and run the following files in the order stated:
    
    1.3- World Cup Web Scraping.ipynb
    
-   1.4- Cleanup Old Tables.ipynb
-
 2) Get H3 scores:
    
    2.2 - Spatial Indexing H3.ipynb
