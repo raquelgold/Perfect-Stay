@@ -2,6 +2,10 @@
 
 Perfect Stay is a travel accommodation finder that aggregates property listings from Airbnb and Booking.com. It helps users find properties closer to their vacation goals—whether it's nightlife, nature, shopping, or attending a specific FIFA World Cup 2026 match.
 
+This project can be run in two ways:
+1.  **Locally** (React Frontend + Flask Backend) - Follow the instructions below.
+2.  **Databricks** (Jupyter Notebook Interface) - See [DATABRICKS.md](DATABRICKS.md).
+
 ## 📋 Prerequisites
 
 Before you begin, ensure you have the following installed on your machine:
